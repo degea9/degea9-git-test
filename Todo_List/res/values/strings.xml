@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Todo_List</string>
+    <string name="myEditText">New To Do Item</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_to_do_list">ToDoList</string>
+
+</resources>
